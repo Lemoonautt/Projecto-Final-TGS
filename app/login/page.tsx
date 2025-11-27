@@ -124,13 +124,14 @@ export default function LoginPage() {
                 </div>
                 <code className="text-xs bg-background px-2 py-1 rounded">admin123</code>
               </div>
-              <div className="flex items-center justify-between rounded-lg bg-muted/50 p-2">
+              {/*<div className="flex items-center justify-between rounded-lg bg-muted/50 p-2">
                 <div>
                   <p className="font-medium text-foreground">Estudiante (María)</p>
                   <p className="text-muted-foreground text-xs">maria.garcia@universidad.edu</p>
                 </div>
                 <code className="text-xs bg-background px-2 py-1 rounded">estudiante123</code>
               </div>
+              */}
             </div>
           </CardContent>
         </Card>
