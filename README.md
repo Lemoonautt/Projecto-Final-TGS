@@ -1,6 +1,6 @@
 # UniGestión - Sistema de Gestión Universitaria
 
-Sistema de seguimiento de gestión académica universitaria con seguimiento de estudiantes, calificaciones, asistencias y control de abandonos.
+Protipo de Sistema de seguimiento de gestión académica universitaria con seguimiento de estudiantes, calificaciones, asistencias y control de abandonos.
 
 ## 🚀 Inicio Rápido
 

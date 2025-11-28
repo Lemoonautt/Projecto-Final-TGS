@@ -1,4 +1,4 @@
-// API client para comunicarse con json-server
+// API client para 
 const API_URL = "http://localhost:3001"
 
 // Helper para manejar errores

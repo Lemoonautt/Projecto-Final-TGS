@@ -4,13 +4,13 @@ export type UserRole = "admin" | "student"
 export interface User {
   id: string
   email: string
-  password: string // En producción usar hash
+  password: string 
   role: UserRole
-  studentId?: string // Solo para estudiantes, vincula al Student
+  studentId?: string 
   name: string
 }
 
-// Usuarios del sistema (en producción esto vendría de una base de datos)
+
 export const users: User[] = [
   {
     id: "admin-1",
